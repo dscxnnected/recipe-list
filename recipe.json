@@ -1,13 +1,23 @@
 [
   {
-    "title" : "HCT Toastie",
-    "description" : "A yummy food",
-    "servings" : 4,
-    "isVegan" : false,
-    "isVegetarian" : false,
-    "prepTime" : 20,
-    "cookTime" : 10,
-    "ingredients" : ["Ham", "Cheese", "Tomato", "Bread", "Butter"],
-    "instructions" : ["Step 1: load up this", "Step 2: do this", "Step 3: do that"]
+    "title": "HCT Toastie",
+    "description": "A yummy food",
+    "servings": 4,
+    "isVegan": false,
+    "isVegetarian": false,
+    "prepTime": 20,
+    "cookTime": 10,
+    "ingredients": [
+      "Ham",
+      "Cheese",
+      "Tomato",
+      "Bread",
+      "Butter"
+    ],
+    "instructions": [
+      "Step 1: load up this",
+      "Step 2: do this",
+      "Step 3: do that"
+    ]
   }
 ]
