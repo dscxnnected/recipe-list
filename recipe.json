@@ -1,6 +1,6 @@
 [
   {
-    "title": "HCT Toastie",
+    "name": "HCT Toastie",
     "description": "A yummy food",
     "servings": 4,
     "isVegan": false,
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "title": "BLT Burger",
+    "name": "BLT Burger",
     "description": "A yummy food",
     "servings": 4,
     "isVegan": false,
